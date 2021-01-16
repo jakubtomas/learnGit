@@ -11,5 +11,16 @@ public class Main {
         System.out.println("second commit");
 
         System.out.println("3 comit ");
+
+        // change last commit message
+        //git commit --amend -m "New commit message."
+
+        // change for in github also
+        //git push --force
+
+        //change older commit ,,
+        // list of last commits
+        //git rebase -i HEAD~3
     }
 }
+
