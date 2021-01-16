@@ -9,5 +9,7 @@ public class Main {
         System.out.println("hello world");
 
         System.out.println("second commit");
+
+        System.out.println("3 comit ");
     }
 }
