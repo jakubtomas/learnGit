@@ -12,6 +12,10 @@ public class Main {
 
         System.out.println("3 comit ");
 
+
+        System.out.println("Hello next commit ");
+        //git log
+
         // change last commit message
         //git commit --amend -m "New commit message."
 
@@ -21,6 +25,11 @@ public class Main {
         //change older commit ,,
         // list of last commits
         //git rebase -i HEAD~3
+
+
+
+
+
     }
 }
 
