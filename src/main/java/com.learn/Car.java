@@ -1,5 +1,5 @@
 package com.learn;
 
 public class Car {
-    private String name;
+  private String brand;
 }
