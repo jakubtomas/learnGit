@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("hello Kubo");
+        System.out.println("hello Jakub");
 
         System.out.println("second commit");
 
