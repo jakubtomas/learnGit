@@ -18,5 +18,5 @@ public class Student {
     /// tomasjakub commit
     /// tomasjakub commit
     /// tomasjakub commit
-    /// tomasjakub commit
+    /// jakubvasinsky commit
 }
