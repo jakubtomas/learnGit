@@ -12,12 +12,5 @@ public class Student {
         this.car = "Tesla";
     }
 
-    @Override
-    public String toString() {
-        return "Student{" +
-                "age=" + age +
-                ", name='" + name + '\'' +
-                ", car='" + car + '\'' +
-                '}';
-    }
+
 }
