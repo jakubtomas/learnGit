@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("fero");
 		System.out.println("fero");
 		System.out.println("fero");
+		System.out.println(	"jozo");
 
         System.out.println("Miro conflict test");
             System.out.println("Jakub tomas branch");
