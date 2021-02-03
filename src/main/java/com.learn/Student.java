@@ -11,4 +11,13 @@ public class Student {
         this.name = name;
         this.car = "Tesla";
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "age=" + age +
+                ", name='" + name + '\'' +
+                ", car='" + car + '\'' +
+                '}';
+    }
 }
