@@ -6,7 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Kubo Hello");
+
+        System.out.println("Kubo Hello Ahoj martin ");
+
 
         System.out.println("second commit");
 
@@ -29,10 +31,6 @@ public class Main {
         //change older commit ,,
         // list of last commits
         //git rebase -i HEAD~3
-
-
-
-
 
     }
 }
