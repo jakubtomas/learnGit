@@ -10,7 +10,7 @@ public class Main {
 
         System.out.println("second commit");
 
-        System.out.println("3 comit ");
+        System.out.println("3 commit ");
         System.out.println("hello ");
 
         System.out.println("one");
