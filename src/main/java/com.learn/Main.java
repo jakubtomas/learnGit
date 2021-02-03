@@ -8,6 +8,10 @@ public class Main {
 
         System.out.println("Dolinsky branch ");
 
+		System.out.println("fero");
+		System.out.println("fero");
+		System.out.println("fero");
+		System.out.println("fero");
 
         System.out.println("second commit");
 
