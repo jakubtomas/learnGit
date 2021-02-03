@@ -30,10 +30,6 @@ public class Main {
         // list of last commits
         //git rebase -i HEAD~3
 
-
-
-
-
     }
 }
 
