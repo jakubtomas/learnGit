@@ -6,11 +6,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Ahoj Martin ty ");
+        System.out.println("Kubo Hello");
 
         System.out.println("second commit");
 
-        System.out.println("3 comit ");
+        System.out.println("3 commit ");
         System.out.println("hello ");
 
         System.out.println("one");
