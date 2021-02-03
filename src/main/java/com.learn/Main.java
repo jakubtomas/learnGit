@@ -6,13 +6,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Dolinsky branch ");
-git checkout
+        System.out.println("Dolinsky test ");
 		System.out.println("fero");
 		System.out.println("fero");
 		System.out.println("fero");
 		System.out.println("fero");
 
+		System.out.println("test");
         System.out.println("second commit");
 
         System.out.println("3 commit ");
