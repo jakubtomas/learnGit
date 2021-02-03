@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello Miro");
+        System.out.println("Dolinsky branch");
 
 
         System.out.println("second commit");
