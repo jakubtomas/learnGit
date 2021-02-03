@@ -8,8 +8,13 @@ public class Main {
 
 
         System.out.println("Miro conflict test");
-
-
+            System.out.println("Jakub tomas branch");
+            System.out.println("Jakub tomas branch");
+            System.out.println("Jakub tomas branch");
+            System.out.println("Jakub tomas branch");
+            System.out.println("Jakub tomas branch");
+            System.out.println("Jakub tomas branch");
+            System.out.println("Jakub tomas branch");
         System.out.println("second commit");
 
         System.out.println("3 commit ");
