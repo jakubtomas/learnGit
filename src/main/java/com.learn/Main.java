@@ -7,28 +7,12 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Dolinsky branch ");
-		System.out.println("fero");
-		System.out.println("fero");
-		System.out.println("fero");
-		System.out.println("fero");
-		System.out.println(	"jozo");
 
-        System.out.println("Miro conflict test");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-          System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-          System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
-            System.out.println("Jakub tomas branch");
+		System.out.println("fero");
+		System.out.println("fero");
+		System.out.println("fero");
+		System.out.println("fero");
+
         System.out.println("second commit");
 
         System.out.println("3 commit ");
