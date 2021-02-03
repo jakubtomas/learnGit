@@ -8,7 +8,7 @@ public class Main {
 
 
         System.out.println("Miro conflict test");
-
+            System.out.println("aldkfjasd;lfkjasdf;k");
 
         System.out.println("second commit");
 
