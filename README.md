@@ -16,3 +16,8 @@ git checkout number_commit   -----> change commit where we are for history
 ```
 git log --oneline
 ```
+
+
+###
+add / change repository 
+git remote set-url --add origin https://github.com/jakubtomas/AngularRMS.git 
