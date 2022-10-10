@@ -18,7 +18,9 @@ git log --oneline
 ```
 
 
+
 ### add / change repository 
 ```
+show address  repository git remote -v 
 git remote set-url --add origin https://github.com/jakubtomas/AngularRMS.git 
 ```
